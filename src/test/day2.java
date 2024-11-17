@@ -16,6 +16,12 @@ public class day2 {
 	public void TESTTESTTEST()
 	{
 		System.out.println("TESTTESTTEST");
+		System.out.println("TESTTESTTESTTEST");
+		System.out.println("TESTTESTTESTTESTTEST");
+		System.out.println("TESTTESTTESTTESTTESTTEST");
+		System.out.println("TESTTESTTESTTESTTESTTESTTEST");
+		System.out.println("TESTTESTTESTTESTTESTTESTTESTTEST");
+		
 	}
 	
 	@BeforeTest
