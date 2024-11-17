@@ -10,6 +10,7 @@ public class day2 {
 	public void ploan()
 	{
 		System.out.println("good");
+		System.out.println("I will execute last999999");
 	}
 	
 	@Test(groups={"Smoke2"})
@@ -21,6 +22,7 @@ public class day2 {
 		System.out.println("TESTTESTTESTTESTTESTTEST");
 		System.out.println("TESTTESTTESTTESTTESTTESTTEST");
 		System.out.println("TESTTESTTESTTESTTESTTESTTESTTEST");
+		System.out.println("I will execute last999999");
 		
 	}
 	
